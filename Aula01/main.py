@@ -1,0 +1,13 @@
+from Lista import Lista
+
+lista = Lista()
+
+lista.imprimir()
+lista.add("João")
+lista.add("Carlos")
+lista.add("Fernando")
+lista.add("Talita")
+lista.add("Eduarda")
+
+liste.remover("Carlos")
+lista.remover("Julia")
